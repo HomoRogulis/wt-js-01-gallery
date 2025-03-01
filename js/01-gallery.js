@@ -51,7 +51,6 @@ function onGalleryItemClick(event) {
 
 }
 
-
 function closeModal() {
   refs
       .modalContainerEl
